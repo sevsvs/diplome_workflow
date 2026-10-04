@@ -1,0 +1,13 @@
+name: diplome
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - ase
+  - matplotlib
+  - spglib
+  - mofchecker
+  - pymatgen
+  - numpy
+prefix: C:\Users\boris\miniconda3\envs\diplome
