@@ -1,3 +1,5 @@
 You need:
 CoRE MOF 2024 database
 QMOF database
+USMOF database
+python libraries from environment.yml

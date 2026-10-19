@@ -1,5 +1,6 @@
 name: diplome
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.10
@@ -10,4 +11,9 @@ dependencies:
   - mofchecker
   - pymatgen
   - numpy
+  - openbabel
+  - pip
+  - pip:
+      - pyeqeq==0.0.10
+      - setuptools<81
 prefix: C:\Users\boris\miniconda3\envs\diplome
